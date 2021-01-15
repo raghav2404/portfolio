@@ -1,4 +1,4 @@
-raghavrastogi.netlify.app/
+
 
 PERSONALIZED PORTFOLIO WEBSITE(STATIC VERSION):
 
@@ -24,6 +24,14 @@ Contact me form,Leave a recommendation form
 Footer has link to various parts of website and other linked plaatforms.
 React router is used to route to different paths i.e blog1,blog2,contact etc and context api stores the data which is provided to each react component using provider-consumer.
 Used bootstrap to design and style the react components.
+
+WEBDEV CONCEPTS USED:
+
+Html forms and labels,classes and id,jsx classname and style,buttons,anchors,img tags,streched links
+Css webkit scrolls, cards,centring,flex,colors and fonts
+Bootstrap card,navbar,footer,row and coln,image round/fluid shadow,button style m-1/2/3,p-1/2/3
+React class and functional component, react router(browser router rout exact path,switch,path),link to,context api,json,provider-consumer
+Npm create react app using node terminal,build,deploy.
 
 
 
