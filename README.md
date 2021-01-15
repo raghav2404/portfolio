@@ -1,3 +1,32 @@
+PERSONALIZED PORTFOLIO WEBSITE(STATIC VERSION):
+
+Tools And Frameworks Used:
+
+React Js and Context Api
+Bootstrap4 
+
+
+Consists of following Components:
+Title
+About (Resume link provided)
+Contact Me
+Recommendations(Add Recomendation, Display Recommendations)
+Projects(Add a project,Projects page)
+Blogs(Add a Blog,Blogs page)
+Skills
+Footer(Link to various platforms)
+
+The title section has the profile pic and details.
+About contains goals and resume link button
+Contact me form,Leave a recommendation form 
+Footer has link to various parts of website and other linked plaatforms.
+React router is used to route to different paths i.e blog1,blog2,contact etc and context api stores the data which is provided to each react component using provider-consumer.
+Used bootstrap to design and style the react components.
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
